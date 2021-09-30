@@ -17,14 +17,14 @@ Please cite as:
 ```
 
 ## Network Strcuture
-![GTN Network Structure](https://gitee.com/SY-M/gated-transformer-networks-for-multivariate-time-serise-classification/raw/master/image/GTN.png)
+![GTN Network Structure](https://github.com/ZZUFaceBookDL/Gated_Transformer_Network/blob/master/Gated_Transfomer_Network/image/GTN.png)
 
 ## Result
-- [MTS Archive](result/MTS.xlsx)
-- [UEA Archive](result/UEA.xlsx)
+- [MTS Archive](https://github.com/ZZUFaceBookDL/Gated_Transformer_Network/blob/master/Gated_Transfomer_Network/result/MTS.xlsx)
+- [UEA Archive](https://github.com/ZZUFaceBookDL/Gated_Transformer_Network/blob/master/Gated_Transfomer_Network/result/UEA.xlsx)
 
 ## Code
-### [`transformer.py`](https://gitee.com/SY-M/gated-transformer-networks-for-multivariate-time-serise-classification/blob/master/module/transformer.py)
+### [`transformer.py`](https://github.com/ZZUFaceBookDL/Gated_Transformer_Network/blob/master/Gated_Transfomer_Network/module/for_MTS/transformer.py)
 
 ## Requirements
 - Python
@@ -34,7 +34,7 @@ Please cite as:
 - scipy
 
 ## Demo
-### [`demo.py`](https://gitee.com/SY-M/gated-transformer-networks-for-multivariate-time-serise-classification/blob/master/demo.py)
+### [`demo.py`](https://github.com/ZZUFaceBookDL/Gated_Transformer_Network/blob/master/Gated_Transfomer_Network/demo.py)
 ```
 import torch
 from torch.utils.data.dataloader import DataLoader
