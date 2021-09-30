@@ -62,9 +62,6 @@ loss_function = torch.nn.CrossEntropyLoss()
 [...]
 ```
 
-## Acknowledgements
-致谢。。。
-
 ## Contact
 Welcome to communicate, criticize and correct mistakes.
 Please emailing to `masiyuan007@qq.com`
